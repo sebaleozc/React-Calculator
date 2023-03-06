@@ -1,0 +1,19 @@
+
+.screen__container__input{
+    background-color: #000000ab;
+    height: 70px;
+    flex: 1 1;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: 30px;
+    letter-spacing: 2px;
+    padding: 11px;
+    padding-right: 15px;
+    border-radius: 30px;
+    color: white;
+    margin: 7px;
+    box-shadow: -.5px 4px 1px 1px rgb(87, 67, 67);
+}

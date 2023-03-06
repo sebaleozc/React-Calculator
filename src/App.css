@@ -1,0 +1,34 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+
+.App{
+  height: 100vh;
+  background-color: #485C48;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+}
+
+.calculator__container{
+  width: 375px;
+  height: 562px;
+  background-color: #0F2224;
+  padding: 15px;
+  border-radius: 17px;
+  border: 4px solid rgb(87, 67, 67);
+}
+
+.row{
+  display: flex;
+  margin: 1px;
+  justify-content: center;
+  align-items: center;
+}
+

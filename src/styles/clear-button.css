@@ -1,0 +1,26 @@
+
+.clear__container{
+    background-color: #F69906;
+    margin-top: 10px;
+    height: 70px;
+    flex-grow: 1;
+    flex-shrink: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    letter-spacing: 3px;
+    font-weight: bold;
+    color: white;
+    border-radius: 30px;
+    border: 3px solid rgb(87, 67, 67);
+    cursor: pointer;
+    user-select: none;
+}
+
+
+.clear__container:hover{
+    background-color: #f69a06ab;
+
+}
+

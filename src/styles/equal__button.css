@@ -1,0 +1,23 @@
+
+.button__equal{
+    display: flex;
+    height: 75px;
+    flex-grow: 1;
+    flex-shrink: 1;
+    background-color: #F69A06;
+    margin: 5px;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    border-radius: 40px;
+    border: 3px solid rgb(87, 67, 67);
+    cursor: pointer;
+    user-select: none;
+
+  }
+  
+  .button__equal:hover{
+    background-color: #f69a0670;
+  }
